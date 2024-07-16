@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="700"
+   height="350"
+   overflow="visible"
+   viewBox="0 0 700 350"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="single-octave-piano.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+   <defs
+      id="defs1">
+      <linearGradient
+         id="swatch6">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop6" />
+      </linearGradient>
+   </defs>
+   <g
+      inkscape:label="White Keys"
+      inkscape:groupmode="layer"
+      id="layer1"
+      style="display:inline;fill:#f9f9f9">
+      <rect
+         style="display:inline;fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-width:0.703905;stroke-opacity:1"
+         id="C"
+         width="99.296097"
+         height="349.29608"
+         x="0.3519524"
+         y="0.35195231" />
+      <rect
+         style="display:inline;fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-width:0.703905;stroke-opacity:1"
+         id="D"
+         width="99.296097"
+         height="349.29608"
+         x="100.35195"
+         y="0.35195231" />
+      <rect
+         style="display:inline;fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-width:0.703905;stroke-opacity:1"
+         id="E"
+         width="99.296097"
+         height="349.29608"
+         x="200.35196"
+         y="0.35195231" />
+      <rect
+         style="display:inline;fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-width:0.703905;stroke-opacity:1"
+         id="F"
+         width="99.296097"
+         height="349.29608"
+         x="300.35193"
+         y="0.35195231" />
+      <rect
+         style="display:inline;fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-width:0.703905;stroke-opacity:1"
+         id="G"
+         width="99.296097"
+         height="349.29608"
+         x="400.35193"
+         y="0.35195231" />
+      <rect
+         style="display:inline;fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-width:0.703905;stroke-opacity:1"
+         id="A"
+         width="99.296097"
+         height="349.29608"
+         x="500.35193"
+         y="0.35195231" />
+      <rect
+         style="display:inline;fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-width:0.703905;stroke-opacity:1"
+         id="B"
+         width="99.296097"
+         height="349.29608"
+         x="600.35193"
+         y="0.35195231" />
+   </g>
+   <g
+      inkscape:groupmode="layer"
+      id="layer3"
+      inkscape:label="Black Keys">
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.670113;stroke-opacity:1"
+         id="Csharp"
+         width="74.329887"
+         height="209.33037"
+         x="62.835056"
+         y="0.33505628" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.670113;stroke-opacity:1"
+         id="Dsharp"
+         width="74.329887"
+         height="209.33037"
+         x="162.83508"
+         y="0.33505628" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.670105;stroke-opacity:1"
+         id="Fsharp"
+         width="74.329895"
+         height="209.3299"
+         x="362.83508"
+         y="0.33505273" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.670113;stroke-opacity:1"
+         id="Gsharp"
+         width="74.329887"
+         height="209.33037"
+         x="462.83508"
+         y="0.33505628" />
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.670113;stroke-opacity:1"
+         id="Asharp"
+         width="74.329887"
+         height="209.33037"
+         x="562.83508"
+         y="0.33505628" />
+   </g>
+</svg>
