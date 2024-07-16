@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Fasad-Regular";
-    src: url(./fonts/Fasad-Regular.woff);
+    src: url("./fonts/Fasad-Regular.woff");
 }
 
 body {
